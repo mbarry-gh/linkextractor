@@ -1,4 +1,4 @@
-FROM       ruby:2.6
+FROM       ruby:2.7.6
 LABEL      maintainer="Sawood Alam <@ibnesayeed>"
 
 ENV        LANG C.UTF-8
